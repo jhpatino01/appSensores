@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="str_Registrarse"><u>Registrarse</u></string>
+    <string name="str_RecuoerarContrasena"><u>Recuperar contraseña</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="sensores">
+        <item>Temperatura</item>
+        <item>Humedad</item>
+        <item>Luminosidad</item>
+    </string-array>
+</resources>
